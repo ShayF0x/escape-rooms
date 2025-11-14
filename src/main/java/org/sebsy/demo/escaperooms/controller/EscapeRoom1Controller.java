@@ -1,5 +1,8 @@
 package org.sebsy.demo.escaperooms.controller;
 
+import org.springframework.stereotype.Service;
+
+@Service
 public class EscapeRoom1Controller {
 
     public void entreeSalle1() {
